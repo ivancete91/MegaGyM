@@ -1,0 +1,144 @@
+header{
+    position: relative;
+    color: #fcfcfd;
+    text-align: center;
+    font-size: 25px;
+    background-color: #404f92;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 85%;
+    left: 100px;
+    display: block;
+    margin: auto;
+    top: 1px;
+
+
+}
+
+
+
+nav h2{
+    text-align: center;
+}
+nav{
+    position: relative;
+    width: 15%;
+    float: left;
+    top: -90px;
+}
+nav h3{
+    text-align: center;
+}
+nav hr{
+    height: 0px;
+    width: 80%;
+}
+nav a{
+    
+    background-color: #47579e;
+    border-radius: 10px 40px 40px 10px;
+    color: rgb(250, 248, 248);
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+
+}
+
+
+footer{
+    clear: both;
+    padding: 1px;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+}
+
+ 
+
+.Registrar_usuario{
+    width:400px;
+    background: #122eacd3;
+    padding:30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius:4px;
+    font-family: 'calibri';
+    color: rgb(255, 255, 255);
+
+}
+.Registrar_usuario .formulario_registro .register .btn-enviar{
+    padding: 10px 40px;
+    margin-top: 40px;
+    border:none;
+    font-size: 14px;
+    background: #5afff7;
+    color:rgb(9, 3, 66);
+    cursor:pointer;
+    outline: none;
+}
+
+.Registrar_usuario .formulario_registro .register { table-layout: auto; width: 100%; }
+
+.Registrar_usuario h4{
+    font-size:22px;
+    margin-bottom: 20px;
+
+}
+
+nav .imagen1{
+  
+    text-align: center;
+    margin:auto;
+    width: 96%;
+}
+
+
+.perfil-us {
+    margin:auto;
+    width:500px;
+    font-family:Arial, Helvetica, sans-serif;
+    display: initial;
+    height: 500px;
+}
+
+ul, ol {
+    list-style:none;
+}
+
+.nav-2 > li {
+    float:left;
+}
+
+.nav-2 li a {
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+    border-style: solid;
+}
+
+.nav-2 li a:hover {
+    background-color:#434343;
+}
+
+.nav-2 li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+}
+
+.nav-2 li:hover > ul {
+    display:block;
+}
+
+.nav-2 li ul li {
+    position:relative;
+}
+
+.nav-2 li ul li ul {
+    right:-140px;
+    top:0px;
+}
+

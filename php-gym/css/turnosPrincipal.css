@@ -1,0 +1,100 @@
+header{
+    position: relative;
+    color: #fcfcfd;
+    text-align: center;
+    font-size: 25px;
+    background-color: #404f92;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 85%;
+    left: 100px;
+    display: block;
+    margin: auto;
+    top: 1px;
+    
+    
+    
+    
+
+}
+nav h2{
+    text-align: center;
+}
+nav{
+    position: relative;
+    width: 15%;
+    float: left;
+    top: -90px;
+}
+nav h3{
+    text-align: center;
+}
+nav hr{
+    height: 0px;
+    width: 80%;
+}
+nav a{
+    
+    background-color: #47579e;
+    border-radius: 10px 40px 40px 10px;
+    color: rgb(250, 248, 248);
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+
+}
+section{
+    float: left;
+    width: 82.5%;
+    color: #08050a;
+    border-radius: 5px;
+    box-shadow: 1px 0 4px rgb(0,0,0,.2);
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+footer{
+    clear: both;
+    padding: 1px;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+}
+
+#sec1{
+text-align: center;
+
+}
+
+#sec2{
+    text-align: center;
+}
+
+nav .imagen1{
+  
+    text-align: center;
+    margin:auto;
+    width: 96%;
+    height: 80px;
+    
+  
+    
+}
+button{
+   
+    position: relative;
+    top: 70px;
+    left: 500px;
+    
+}
+
+nav .imagen1{
+  
+    text-align: center;
+    margin:auto;
+    width: 96%;
+    
+}
+
+
